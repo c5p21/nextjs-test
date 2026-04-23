@@ -8,5 +8,5 @@ export async function GET(request: NextRequest) {
 
     console.log('request**************************');
 
-    return NextResponse.json({ message: `Hello` });
+    return NextResponse.json({ message: `Hello word` });
 }
