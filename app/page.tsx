@@ -6,7 +6,7 @@ export default function Home() {
 
   return (
     <div className="text-red-500">
-      vercel-test hello word 1
+      vercel-test hello word 1 666
     </div>
   );
 }
